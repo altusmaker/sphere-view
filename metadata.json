@@ -1,0 +1,6 @@
+{
+  "name": "360° Fisheye Photo Viewer",
+  "description": "An interactive Street View style 360-degree panorama and fisheye image viewer with pan, tilt, zoom, and spatial projection modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
